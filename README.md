@@ -1,5 +1,5 @@
 # salesforce-apex-price-recordnumber
-salesforce sand box 環境で動作する Apex コードを管理します。
+salesforce-apex-price-recordnumber は、salesforce sand box 環境で動作する Apex コードを管理します。
 
 ## 使用方法
 salesforce の CLI の sfdx を使用します。[こちらから](https://developer.salesforce.com/docs/atlas.ja-jp.sfdx_setup.meta/sfdx_setup/sfdx_setup_install_cli.htm) を参考にインストールしてください。
